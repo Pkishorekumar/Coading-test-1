@@ -1,0 +1,24 @@
+article{
+    background-color: aliceblue;
+  
+}
+.one{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    padding-bottom: 40px;
+}
+.two{
+    display: flex;
+    justify-content: center;
+}
+.d-one{
+    margin-left: 10%;
+    line-height: 25px;
+}
+.i-one{
+    width: 100%;
+}
+.bnt{
+    width: 100%;
+}
